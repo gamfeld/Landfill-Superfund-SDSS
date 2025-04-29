@@ -1,0 +1,17 @@
+{
+  "spatial_params": {
+    "expansion_acreage": 30,
+    "height_increase_ft": 50,
+    "buffer_installed": true
+  },
+  "nonspatial_params": {
+    "fill_rate_tpd": 7500,
+    "turbine_efficiency_pct": 34.5,
+    "rng_upgrade": false
+  },
+  "external_drivers": {
+    "policy_pressure": {
+      "active": false
+    }
+  }
+}
